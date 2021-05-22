@@ -1,0 +1,11 @@
+footer {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+@media only screen and (min-width: 768px) {
+  footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
